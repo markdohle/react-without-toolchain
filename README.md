@@ -2,6 +2,8 @@
 
 MIT xPro REACT Week 3 Notes: What is a Toolchain
 
+Learn how to ceate a React App [here.](https://reactjs.org/docs/create-a-new-react-app.html)
+
 What is a Toolchain?
 A toolchain is a package of programming tools that helps you set up an application and its dependencies easily. This week, you’ll use the create-react-app toolchain.  The best way to understand the value of this toolchain is to review what it’s like to create a React application without one.
 
